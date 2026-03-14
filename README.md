@@ -13,7 +13,7 @@ A curated list of papers on feed-forward 3D reconstruction and view synthesis, o
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{Zhang2025FF3D,
+@article{Zhang2026FF3D,
     author = {Jiahui Zhang and Yuelei Li and Anpei Chen and Muyu Xu and Kunhao Liu and
               Jianyuan Wang and Xiao-Xiao Long and Hanxue Liang and Zexiang Xu and Hao Su and
               Christian Theobalt and Christian Rupprecht and Andrea Vedaldi and Kaichen Zhou and
