@@ -8,9 +8,27 @@ A curated list of papers on feed-forward 3D reconstruction and view synthesis, o
 > Jiahui Zhang, Yuelei Li, Anpei Chen, Muyu Xu, Kunhao Liu, Jianyuan Wang, Xiao-Xiao Long, Hanxue Liang, Zexiang Xu, Hao Su, Christian Theobalt, Christian Rupprecht, Andrea Vedaldi, Kaichen Zhou, Hanspeter Pfister, Paul Pu Liang, Shijian Lu, Fangneng Zhan
 > [📃 Paper](https://arxiv.org/abs/2503.24529) | [🌐 Project Page](https://fnzhan.com/projects/Feed-Forward-3D)
 
+## Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@article{Zhang2025FF3D,
+    author = {Jiahui Zhang and Yuelei Li and Anpei Chen and Muyu Xu and Kunhao Liu and
+              Jianyuan Wang and Xiao-Xiao Long and Hanxue Liang and Zexiang Xu and Hao Su and
+              Christian Theobalt and Christian Rupprecht and Andrea Vedaldi and Kaichen Zhou and
+              Hanspeter Pfister and Paul Pu Liang and Shijian Lu and Fangneng Zhan},
+    title = {Advances in Feed-Forward 3D Reconstruction and View Synthesis},
+    journal = {Computer Graphics Forum},
+    year = {2025}
+}
+```
+
 ---
 
 ## Table of Contents
+
+Feel free to submit a Pull Request if you would like to update the list.
 
 - [NeRF-Based Methods](#nerf-based-methods)
   - [1D Feature-Based](#1d-feature-based)
@@ -1662,18 +1680,3 @@ We present GenFusion, a method that closes the loop between 3D reconstruction an
 
 ---
 
-## Citation
-
-If you find this work useful in your research, please consider citing:
-
-```bibtex
-@article{Zhang2025FF3D,
-    author = {Jiahui Zhang and Yuelei Li and Anpei Chen and Muyu Xu and Kunhao Liu and
-              Jianyuan Wang and Xiao-Xiao Long and Hanxue Liang and Zexiang Xu and Hao Su and
-              Christian Theobalt and Christian Rupprecht and Andrea Vedaldi and Kaichen Zhou and
-              Hanspeter Pfister and Paul Pu Liang and Shijian Lu and Fangneng Zhan},
-    title = {Advances in Feed-Forward 3D Reconstruction and View Synthesis},
-    journal = {Computer Graphics Forum},
-    year = {2025}
-}
-```
