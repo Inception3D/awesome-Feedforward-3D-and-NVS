@@ -6,7 +6,7 @@ A curated list of papers on feed-forward 3D reconstruction and view synthesis, o
 
 > **Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**
 > Jiahui Zhang, Yuelei Li, Anpei Chen, Muyu Xu, Kunhao Liu, Jianyuan Wang, Xiao-Xiao Long, Hanxue Liang, Zexiang Xu, Hao Su, Christian Theobalt, Christian Rupprecht, Andrea Vedaldi, Kaichen Zhou, Hanspeter Pfister, Paul Pu Liang, Shijian Lu, Fangneng Zhan
-> [📃 Paper](https://arxiv.org/abs/2503.24529) | [🌐 Project Page](https://fnzhan.com/projects/Feed-Forward-3D)
+> [📃 Paper](https://arxiv.org/abs/2507.14501) | [🌐 Project Page](https://fnzhan.com/projects/Feed-Forward-3D)
 
 ## Citation
 
