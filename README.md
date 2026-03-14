@@ -157,7 +157,7 @@ Recent neural view synthesis methods have achieved impressive quality and realis
 ---
 
 #### GNT ![](https://img.shields.io/badge/2022-arXiv-red)
-**Authors**: Guangcong Wang, Zhaoxi Chen, Chen Change Loy, Ziwei Liu
+**Authors**: Peihao Wang, Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -169,7 +169,7 @@ We present the Generalizable NeRF Transformer (GNT), a transformer-based archite
 ---
 
 #### GNT-MOVE ![](https://img.shields.io/badge/2023-CVPR-green)
-**Authors**: Guangcong Wang, Zhaoxi Chen, Chen Change Loy, Ziwei Liu
+**Authors**: Wenyan Cong, Hanxue Liang, Peihao Wang, Zhiwen Fan, Tianlong Chen, Mukund Varma, Yi Wang, Zhangyang Wang
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -181,7 +181,7 @@ Cross-scene generalizable NeRF models, which can directly synthesize novel views
 ---
 
 #### MatchNeRF ![](https://img.shields.io/badge/2023-CVPR-green)
-**Authors**: Lichen Chen, Liangjian Cheng, Wei Yin, Liuhua Peng, Chunhua Shen
+**Authors**: Yuedong Chen, Haofei Xu, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -193,7 +193,7 @@ We present a new generalizable NeRF method that can directly generalize to new u
 ---
 
 #### ContraNeRF ![](https://img.shields.io/badge/2023-ICCV-yellow)
-**Authors**: Gregor Köhler, Nassir Navab, Benjamin Busam
+**Authors**: Hao Yang, Lanqing Hong, Aoxue Li, Tianyang Hu, Zhenguo Li, Gim Hee Lee, Liwei Wang
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -231,7 +231,7 @@ We present GeoNeRF, a generalizable photorealistic novel view synthesis method b
 ---
 
 #### NeuRay ![](https://img.shields.io/badge/2022-CVPR-green)
-**Authors**: Xiaoshuai Zhang, Sai Bi, Kalyan Sunkavalli, Hao Su, Zexiang Xu
+**Authors**: Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -255,7 +255,7 @@ This paper aims to tackle the challenge of efficiently producing interactive fre
 ---
 
 #### MuRF ![](https://img.shields.io/badge/2024-CVPR-green)
-**Authors**: Haofei Xu, Anpei Chen, Yuedong Chen, Christoph Lassner, Zhidong Deng, Andreas Geiger, Marc Pollefeys, Wenjing Bian
+**Authors**: Haofei Xu, Anpei Chen, Yuedong Chen, Christos Sakaridis, Yulun Zhang, Marc Pollefeys, Andreas Geiger, Fisher Yu
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -279,7 +279,7 @@ Generalizable NeRF aims to synthesize novel views for unseen scenes. Common prac
 ---
 
 #### WaveNeRF ![](https://img.shields.io/badge/2023-ICCV-yellow)
-**Authors**: Muyu Xu, Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Lingjie Liu, Shijian Lu, Christian Theobalt
+**Authors**: Muyu Xu, Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Xiaoqin Zhang, Christian Theobalt, Ling Shao, Shijian Lu
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -341,7 +341,7 @@ We present LRM-Zero, a Large Reconstruction Model (LRM) trained entirely on synt
 ---
 
 #### Instant3D ![](https://img.shields.io/badge/2023-ICLR-blue)
-**Authors**: Jiahao Li, Hao Tan, Kai Zhang, Zexiang Xu, Feng Liu, Yanqing Jing, Sai Bi, Kalyan Sunkavalli, Mike Zheng Shou, Hao Su
+**Authors**: Jiahao Li, Hao Tan, Kai Zhang, Zexiang Xu, Fujun Luan, Yinghao Xu, Yicong Hong, Kalyan Sunkavalli, Greg Shakhnarovich, Sai Bi
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -367,7 +367,7 @@ We propose DMV3D, a novel 3D generation approach that uses a transformer-based 3
 ### Other NeRF Methods
 
 #### VisionNeRF ![](https://img.shields.io/badge/2023-CVPR-green)
-**Authors**: Jianfeng Yan, Zekun Hao, Hongyi Xu, Sergi Tulyakov, Jun Gao, Wenlong Liao, Stefano Petrangeli, Haoxiang Li, Huaizu Jiang
+**Authors**: Kai-En Lin, Yen-Chen Lin, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -429,7 +429,7 @@ Multi-view 3D reconstruction remains a core challenge in computer vision, partic
 ---
 
 #### MV-DUSt3R+ ![](https://img.shields.io/badge/2024-arXiv-red)
-**Authors**: Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, Jerome Revaud
+**Authors**: Zhenggang Tang, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alexander Schwing, Zhicheng Yan
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -441,7 +441,7 @@ Recent sparse multi-view scene reconstruction advances like DUSt3R and MASt3R no
 ---
 
 #### SLAM3R ![](https://img.shields.io/badge/2025-arXiv-red)
-**Authors**: Xu Yan, Zhiheng Li, Binbin Xu, Xin Chen, Haomin Liu, Guofeng Zhang, Ronghui Zhan, Hujun Bao
+**Authors**: Yuzheng Liu, Siyan Dong, Shuzhe Wang, Yingda Yin, Yanchao Yang, Qingnan Fan, Baoquan Chen
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -465,7 +465,7 @@ We present Spann3R, a novel approach for dense 3D reconstruction from ordered or
 ---
 
 #### MUSt3R ![](https://img.shields.io/badge/2025-arXiv-red)
-**Authors**: Yohann Cabon, Lucas Stoffl, Leonid Antsfeld, Gabriela Csurka, Boris Chidlovskii, Jerome Revaud, Philippe Weinzaepfel
+**Authors**: Yohann Cabon, Lucas Stoffl, Leonid Antsfeld, Gabriela Csurka, Boris Chidlovskii, Jerome Revaud, Vincent Leroy
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -525,7 +525,7 @@ We present Easi3R, a simple training-free approach that adapts DUSt3R for dynami
 ---
 
 #### Driv3R ![](https://img.shields.io/badge/2025-arXiv-red)
-**Authors**: Yufei Wei, Yifan Lu, Muyu Xu, Jiahui Zhang, Wenzhao Zheng, Shijian Lu
+**Authors**: Xin Fei, Wenzhao Zheng, Yueqi Duan, Wei Zhan, Masayoshi Tomizuka, Kurt Keutzer, Jiwen Lu
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -537,7 +537,7 @@ Realtime 4D reconstruction for dynamic scenes remains a crucial challenge for au
 ---
 
 #### Light3R-SfM ![](https://img.shields.io/badge/2025-CVPR-brightgreen)
-**Authors**: Sven Elflein, Qunjie Zhou, Danda Pani Paudel, Laura Leal-Taixé
+**Authors**: Sven Elflein, Qunjie Zhou, Laura Leal-Taixé
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -573,7 +573,7 @@ We present MoGe, a powerful model for recovering 3D geometry from monocular open
 ---
 
 #### Test3R ![](https://img.shields.io/badge/2025-arXiv-red)
-**Authors**: Ziwen Yuan, Sicheng Xu, Ruicheng Wang, Jiaolong Yang, Xin Tong, Baining Guo
+**Authors**: Yuheng Yuan, Qiuhong Shen, Shizun Wang, Xingyi Yang, Xinchao Wang
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -609,7 +609,7 @@ We present VGGT, a feed-forward neural network that directly infers all key 3D a
 ---
 
 #### VGGT-Long (Tesseract) ![](https://img.shields.io/badge/2025-arXiv-red)
-**Authors**: Peize Deng, Jianyuan Wang, Bokui Shen, Nikita Karaev, Tsun-Yi Yang, David Novotny, Christian Rupprecht, Andrea Vedaldi
+**Authors**: Kai Deng, Zexin Ti, Jiawei Xu, Jian Yang, Jin Xie
 
 <details span>
 <summary><b>Abstract</b></summary>
