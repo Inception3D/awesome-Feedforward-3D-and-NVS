@@ -20,7 +20,7 @@ If you find this work useful in your research, please consider citing:
               Hanspeter Pfister and Paul Pu Liang and Shijian Lu and Fangneng Zhan},
     title = {Advances in Feed-Forward 3D Reconstruction and View Synthesis},
     journal = {Computer Graphics Forum},
-    year = {2025}
+    year = {2026}
 }
 ```
 
